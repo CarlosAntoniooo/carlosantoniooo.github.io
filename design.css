@@ -1,0 +1,47 @@
+img.image_one {
+  width: 265px;
+  height: 150px;
+}
+img.image_two {
+  width: 200px;
+  height: 310px;
+}
+body {
+  background-color: #000;
+}
+h1 {
+  color: #00ffba
+}
+h3 {
+  color: #fff;
+}
+h2 {
+  color: #fff;
+}
+a.quora {
+  color: #ff0000
+}
+img.image_three {
+  width: 265px;
+  height: 150px;
+}
+img.image_four {
+  width: 265px;
+  height: 150px;
+}
+a {
+  color: #0000ff
+}
+img.image_five {
+  width: 265px;
+  height: 150px;
+}
+h4 {
+  color: #fff
+}
+span.salary {
+  color: #FFA500
+}
+a.PayScale {
+  color: #9ccbb8
+}
